@@ -1,0 +1,143 @@
+{
+  "version": "1.0.0",
+  "lastUpdate": "2026-02-16",
+  "profile": {
+    "fullName": "Karima Theraya",
+    "jobTitle": "Professionista Dinamica",
+    "profileImage": "https://via.placeholder.com/150",
+    "about": "Sono una professionista appassionata e dedita al raggiungimento di eccellenza in ogni progetto. Con una forte base tecnica e competenze trasversali, miro a creare soluzioni innovative e impactful. Sono sempre alla ricerca di sfide che mi permettino di crescere professionalmente e contribuire al successo dei progetti.",
+    "email": "karima.theraya@example.com",
+    "phone": "+39 XXX XXX XXXX",
+    "location": "Italia",
+    "social": {
+      "linkedin": "https://linkedin.com/in/karima-theraya",
+      "github": "https://github.com/karima370",
+      "portfolio": "https://karima-theraya.com"
+    }
+  },
+  "skills": [
+    {
+      "name": "JavaScript",
+      "level": "Avanzato"
+    },
+    {
+      "name": "React",
+      "level": "Avanzato"
+    },
+    {
+      "name": "Python",
+      "level": "Intermedio"
+    },
+    {
+      "name": "HTML/CSS",
+      "level": "Avanzato"
+    },
+    {
+      "name": "Node.js",
+      "level": "Avanzato"
+    },
+    {
+      "name": "Database SQL",
+      "level": "Intermedio"
+    },
+    {
+      "name": "Git/GitHub",
+      "level": "Avanzato"
+    },
+    {
+      "name": "Project Management",
+      "level": "Intermedio"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior Developer",
+      "company": "Tech Company",
+      "startDate": "2024",
+      "endDate": "Presente",
+      "description": "Sviluppo di applicazioni web moderne usando React e Node.js. Mentoring di junior developers e implementazione di best practices di sviluppo."
+    },
+    {
+      "title": "Full Stack Developer",
+      "company": "Digital Solutions",
+      "startDate": "2022",
+      "endDate": "2024",
+      "description": "Progettazione e sviluppo di piattaforme web scalabili. Collaborazione con team multidisciplinari e gestione di rilasci in produzione."
+    },
+    {
+      "title": "Junior Developer",
+      "company": "StartUp Innovativa",
+      "startDate": "2020",
+      "endDate": "2022",
+      "description": "Sviluppo frontend e backend di applicazioni web. Partecipazione attiva a code reviews e continuous learning."
+    }
+  ],
+  "education": [
+    {
+      "title": "Laurea in Informatica",
+      "institution": "Università Politecnica",
+      "startDate": "2016",
+      "endDate": "2020",
+      "description": "Specializzazione in Ingegneria del Software con focus su sviluppo web e architetture distribuite."
+    },
+    {
+      "title": "Bootcamp Full Stack Development",
+      "institution": "Coding Academy",
+      "startDate": "2024",
+      "endDate": "2024",
+      "description": "Formazione intensiva su tecnologie modern web development con focus pratico su progetti reali."
+    }
+  ],
+  "projects": [
+    {
+      "title": "E-Commerce Platform",
+      "description": "Piattaforma di e-commerce completa con React frontend e Node.js backend. Implementazione di pagamenti e gestione inventory.",
+      "link": "https://github.com/karima370/ecommerce-project"
+    },
+    {
+      "title": "Task Management App",
+      "description": "Applicazione di gestione attività con sincronizzazione real-time e autenticazione utente. Realizzata con MERN stack.",
+      "link": "https://github.com/karima370/task-manager"
+    },
+    {
+      "title": "Data Visualization Dashboard",
+      "description": "Dashboard interattiva per visualizzazione dati con grafici dinamici e filtri avanzati. Utilizzato React e D3.js.",
+      "link": "https://github.com/karima370/data-dashboard"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Italiano",
+      "level": "Nativo"
+    },
+    {
+      "name": "Inglese",
+      "level": "Fluente"
+    },
+    {
+      "name": "Francese",
+      "level": "Intermedio"
+    },
+    {
+      "name": "Spagnolo",
+      "level": "Base"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Developer",
+      "issuer": "Amazon Web Services",
+      "date": "2024"
+    },
+    {
+      "name": "React Advanced Patterns",
+      "issuer": "Udemy",
+      "date": "2023"
+    },
+    {
+      "name": "Full Stack Development Certification",
+      "issuer": "Coursera",
+      "date": "2023"
+    }
+  ]
+}
