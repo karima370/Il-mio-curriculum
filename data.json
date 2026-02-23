@@ -86,6 +86,13 @@
       "startDate": "2024",
       "endDate": "2024",
       "description": "Formazione intensiva su tecnologie modern web development con focus pratico su progetti reali."
+    },
+    {
+      "title": "Amministrazione Finanza e Marketing",
+      "institution": "Istituto Roncalli di Poggibonsi",
+      "startDate": "2022",
+      "endDate": "2027",
+      "description": "Percorso di studi in Amministrazione Finanza e Marketing presso l'Istituto Roncalli di Poggibonsi."
     }
   ],
   "projects": [
@@ -115,8 +122,8 @@
       "level": "Fluente"
     },
     {
-      "name": "Francese",
-      "level": "Intermedio"
+      "name": "Arabo",
+      "level": "Fluente"
     },
     {
       "name": "Spagnolo",
